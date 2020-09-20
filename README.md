@@ -11,3 +11,8 @@
 * imageio
 * ffmpeg
 
+## Video Walkthrough
+
+Here's a walkthrough of the GUI:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
